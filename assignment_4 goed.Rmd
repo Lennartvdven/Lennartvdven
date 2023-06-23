@@ -74,7 +74,7 @@ write.csv(summary_data, "summary_data.csv", row.names = FALSE)
 # write your code here
 ```
 
-**Designated place**: type one or two sentences describing this table of a fellow student below. For example, comment on the mean and median growth of both groups. Then stage, commit and push it to their github repository. 
+The table summarizes the growth and GDP data for two treatment groups: "No Revolutions" and "0". It provides information on the mean, median, standard deviation, minimum, and maximum values for both growth and RG60 variables, allowing for a comparison between the two groups.: type one or two sentences describing this table of a fellow student below. For example, comment on the mean and median growth of both groups. Then stage, commit and push it to their github repository. 
 
 
 ### Part 3: Make a table summarizing reressions using modelsummary and kable
